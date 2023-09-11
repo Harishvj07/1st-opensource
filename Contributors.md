@@ -68,6 +68,7 @@ KOR EU WEI
 - [Robert Vittozzi](http://github.com/rvittozzi)
 - [Lavanya Mishra](https://github.com/chessmadridista)
 - [Pina Sunil](https://github.com/PinaSunil)
+- [Harishvj07](https://github.com/Harishvj07)
 - [Joanna Marie Areniego](https://github.com/JoannaMarieAreniego)
 - [Chance Justine Bragais] (https://github.com/Chancelemagne22)
 - [Brian Oktavec] (https://github.com/boktavec)
